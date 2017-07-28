@@ -1,2 +1,3 @@
 # lopez-repository
-engagement dans la connaissance des codes
+je suis debutant developpeur
+un peu d'inspiration dans mon corps
